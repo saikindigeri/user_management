@@ -31,7 +31,7 @@ Follow these instructions to set up the frontend project on your local machine.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/saikindigeri/user-management.git
+   git clone (https://github.com/saikindigeri/user_management.git)
    cd frontend
    npm install
    npm start
