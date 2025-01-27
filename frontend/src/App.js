@@ -95,7 +95,7 @@ class App extends Component {
           handleEdit={this.handleEdit}
           handleDelete={this.handleDelete}
           handlePageChange={this.handlePageChange} 
-        />
+        /> 
       </Container>
     );
   }
