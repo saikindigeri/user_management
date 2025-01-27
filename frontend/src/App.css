@@ -1,0 +1,13 @@
+/* App-specific Styles */
+.container {
+  max-width: 1200px;
+}
+
+@media (max-width: 767px) {
+  .form-container {
+    padding: 15px;
+  }
+  .form-submit-btn {
+    font-size: 16px;
+  }
+}
